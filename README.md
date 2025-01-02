@@ -9,7 +9,7 @@ Este projeto combina diversas ferramentas de Inteligência Artificial para criar
 
 - **[MidJourney](https://www.midjourney.com/):** Para geração de imagens a partir de prompts textuais.
 - **[Eleven Labs](https://elevenlabs.io/):** Para síntese de voz realista e narrações baseadas em texto.
-- **[Spotify Creators]((https://creators.spotify.com/):** Para integração e recomendação de conteúdo de Podcast.
+- **[Spotify Creators](https://creators.spotify.com/):** Para integração e recomendação de conteúdo de Podcast. [Episódio consta aqui](https://open.spotify.com/episode/0YRbgv59wt6gO6b6wQrygL?si=FUbgJfhITieE2lBT4lVJMQ)
 - **ChatGPT (OpenAI):** Para interações baseadas em linguagem natural e automação de tarefas complexas.
 
 ---
