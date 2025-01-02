@@ -9,7 +9,7 @@ Este projeto combina diversas ferramentas de Inteligência Artificial para criar
 
 - **[MidJourney](https://www.midjourney.com/):** Para geração de imagens a partir de prompts textuais.
 - **[Eleven Labs](https://elevenlabs.io/):** Para síntese de voz realista e narrações baseadas em texto.
-- **[Spotify Creators](https://creators.spotify.com/):** Para integração e recomendação de conteúdo de Podcast. [Episódio consta aqui](https://open.spotify.com/episode/0YRbgv59wt6gO6b6wQrygL?si=FUbgJfhITieE2lBT4lVJMQ)
+- **[Spotify Creators](https://creators.spotify.com/):** Para integração e recomendação de conteúdo de Podcast. 
 - **ChatGPT (OpenAI):** Para interações baseadas em linguagem natural e automação de tarefas complexas.
 
 ---
@@ -17,13 +17,37 @@ Este projeto combina diversas ferramentas de Inteligência Artificial para criar
 ## Funcionalidades Principais
 
 ### 1. **Geração de Conteúdo Visual**
-Utilizamos o MidJourney para criar imagens únicas e personalizadas com base nas entradas fornecidas pelo usuário.
+Utilizamos o Chat GPT para criar imagens únicas e personalizadas com base nas entradas fornecidas pelo usuário.
+ 
+(https://github.com/user-attachments/assets/84b891fa-dfcf-420e-b3cd-a33f8cd418d9)
+
 
 ### 2. **Síntese de Voz**
 A integração com o Eleven Labs permite converter textos em narrações de alta qualidade, ideais para aplicações multimídia.
+Usei o gpt para montar o roteiro do podcast usando regras e regras negativas.
+Abaixo inseri o prompt
+
+Dito pelo ChatGPT:
+ChatGPT
+Entendido! Vou criar um roteiro seguindo suas instruções. Vamos começar:
+
+[Roteiro do Podcast - Level Up ERP]
+[INTRODUÇÃO]
+"Fala, galera! Hoje vamos embarcar em uma viagem fascinante no universo do Business Central, um sistema que está revolucionando a gestão de empresas. Se você gosta de tecnologia e eficiência no mundo corporativo, esse é o seu lugar! Eu sou a Eva e vou guiar você nessa jornada cheia de descobertas incríveis!"
+[CURIOSIDADE1]
+"Você sabia que o Business Central tem uma funcionalidade de navegação que deixa muitos concorrentes no chinelo? Com a sua interface super intuitiva, é possível encontrar qualquer informação em segundos, graças à barra de pesquisa universal. Digite o que precisa, e o sistema apresenta relatórios, registros e até configurações relacionadas. Isso economiza tempo e reduz erros de busca. Fantástico, né?"
+[CURIOSIDADE2]
+"E não para por aí! Uma das maiores vantagens do ERP Business Central é sua compatibilidade impressionante. Ele se integra perfeitamente a outros produtos da Microsoft, como o Teams e o Outlook. Imagine estar numa reunião no Teams e acessar dados financeiros em tempo real ou criar faturas diretamente pelo Outlook. A sinergia entre as ferramentas faz toda a diferença!"
+[FINALIZAÇÃO]
+"Bom, pessoal, chegamos ao final do nosso papo de hoje. Espero que tenha curtido essas curiosidades sobre o Business Central. Eu sou a Eva, e esse foi o Level Up ERP desta semana. Até a próxima!"
+
+De <https://chatgpt.com/c/6776f7df-f034-8004-84ef-d1d222f7d57f> ![image](https://github.com/user-attachments/assets/cfdf0399-8876-4f99-9a04-5c1c0bf1b1b4)
+
+
 
 ### 3. **Integração Musical**
-Com a API do Spotify, oferecemos recomendações musicais e criação de playlists dinâmicas baseadas no contexto do usuário.
+Com o Creators do Spotify, oferecemos o podcast para o Nicho de tecnologia. [Episódio consta aqui](https://open.spotify.com/episode/0YRbgv59wt6gO6b6wQrygL?si=FUbgJfhITieE2lBT4lVJMQ)
+
 
 ### 4. **Interações Baseadas em Linguagem Natural**
 O ChatGPT é utilizado para fornecer uma interface interativa, respondendo a perguntas, oferecendo sugestões e automatizando processos criativos.
