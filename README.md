@@ -9,7 +9,7 @@ Este projeto combina diversas ferramentas de Inteligência Artificial para criar
 
 - **[MidJourney](https://www.midjourney.com/):** Para geração de imagens a partir de prompts textuais.
 - **[Eleven Labs](https://elevenlabs.io/):** Para síntese de voz realista e narrações baseadas em texto.
-- **[Spotify API](https://developer.spotify.com/):** Para integração e recomendação de conteúdo musical.
+- **[Spotify Creators]((https://creators.spotify.com/):** Para integração e recomendação de conteúdo de Podcast.
 - **ChatGPT (OpenAI):** Para interações baseadas em linguagem natural e automação de tarefas complexas.
 
 ---
@@ -103,8 +103,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
-- **Email:** seuemail@exemplo.com
-- **GitHub:** [seu_usuario](https://github.com/seu_usuario)
+- **Email:** evelynsousacontabilidade@gmail.com
+- **GitHub:** [soieva](https://github.com/oieva)
 
 Agradecemos por explorar nosso projeto!
 
