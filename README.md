@@ -19,7 +19,14 @@ Este projeto combina diversas ferramentas de Inteligência Artificial para criar
 ### 1. **Geração de Conteúdo Visual**
 Utilizamos o Chat GPT para criar imagens únicas e personalizadas com base nas entradas fornecidas pelo usuário.
  
-(https://github.com/user-attachments/assets/84b891fa-dfcf-420e-b3cd-a33f8cd418d9)
+Você é um artista criativo em capas de vídeos e podcasts, crie uma imagem de capa de podcast voltado ao mundo de erp, a capa precisa conter uma boneca fofa de uma mulher caucasiana cabelos ruivos e headset azul, olhos castanhos escuros sentada em uma mesa de podcast com cores que remetam ao erp business central e precisa ser bem criativa a imagem. Regras negativas: Nada de simulação de rostos reais
+
+
+
+Aqui está a capa criativa do podcast voltada ao mundo de ERP. A personagem é uma boneca estilizada com cabelos ruivos, headset azul, e está em um ambiente que reflete elementos do Business Central. Espero que você goste! Caso precise de ajustes, é só me avisar. 😊
+
+De <https://chatgpt.com/c/6776f7df-f034-8004-84ef-d1d222f7d57f> ![image](https://github.com/user-attachments/assets/0b198e3e-6c08-49d7-9ca8-088bef878ace)
+
 
 
 ### 2. **Síntese de Voz**
